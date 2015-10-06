@@ -16,6 +16,10 @@ After setting up, you can run the application using [foreman]:
 
     % foreman start
 
+Or, if you're having issues, get the heroku toolbelt and
+
+	% heroku local
+
 If you don't have `foreman`, see [Foreman's install instructions][foreman]. It
 is [purposefully excluded from the project's `Gemfile`][exclude].
 
